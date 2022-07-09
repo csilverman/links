@@ -13,6 +13,7 @@
 ## Interesting typography projects
 
 - [22/22 -- Seabell Type Foundry](https://2222.seabellfoundry.com/)
+- [Pyte Legacy – The Pyte Foundry](https://thepytefoundry.net/typefaces/pyte-legacy/)
 
 ---
 
