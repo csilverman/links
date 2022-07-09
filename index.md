@@ -13,3 +13,7 @@
 ## Interesting typography projects
 
 - [22/22 -- Seabell Type Foundry](https://2222.seabellfoundry.com/)
+
+---
+
+[about](about.html)
