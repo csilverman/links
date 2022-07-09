@@ -6,4 +6,5 @@
 
 ## Communities
 
-- [Gossip's Cafe](https://gossips.cafe)
+- [Gossip’s Café](https://gossips.cafe/)
+- [MLTSHP](https://mltshp.com/)
